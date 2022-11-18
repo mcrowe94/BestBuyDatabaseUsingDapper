@@ -30,8 +30,7 @@ namespace BestBuyDatabaseUsingDapper
             //step 4 - done 
 
             //EXERCISE 3!
-            //No steps - just added the UpdateProduct method in the DapperProductRepository
-            //
+            //no steps - finished
             
 
             var config = new ConfigurationBuilder()
